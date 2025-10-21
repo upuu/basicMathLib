@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.rowan</groupId>
-    <artifactId>basicMathLib</artifactId>
+    <artifactId>basicmathlib</artifactId>
     <version>1.0.2</version>
     <packaging>jar</packaging>
 
